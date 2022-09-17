@@ -1,0 +1,17 @@
+Azure deployment link:
+https://ranjansah.azurewebsites.net
+_______________________________________________________________
+
+Github Link:
+https://github.com/Ranjansah/milestone6SBA.git
+
+_________________________________________________________________
+
+Azure External link:
+52.226.201.11
+___________________________________________________________________
+
+Webhook link:
+https://1299-203-92-61-66.in.ngrok.io/github-webhook/
+
+________________________________________________________________________
